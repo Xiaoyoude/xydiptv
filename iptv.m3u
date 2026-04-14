@@ -5,8 +5,6 @@ http://8.138.7.223/tv/btime.php?id=bjws4k
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 ,#http://101.35.240.114:88/live.php?id=深圳卫视
-http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 group-title="4K频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K频道",河北4K
