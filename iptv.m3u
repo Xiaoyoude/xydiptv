@@ -1,6 +1,5 @@
+
 #EXTM3U
-#EXTINF:-1 group-title="4K频道",北京卫视4K
-http://8.138.7.223/tv/btime.php?id=bjws4k
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
@@ -49,8 +48,6 @@ http://120.76.248.139/live/bfgd/4200000110.m3u8
 http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 group-title="卫视频道",厦门卫视
@@ -61,8 +58,6 @@ http://120.76.248.139/live/bfgd/4200000122.m3u8
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="备用频道",CCTV1
@@ -153,10 +148,6 @@ http://112.27.235.94:8000/hls/50/index.m3u8
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 group-title="数字频道",CCTV-6电影
 http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
-#EXTINF:-1 group-title="数字频道",1905电影网
-http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
-#EXTINF:-1 group-title="数字频道",1905电影网（国内）
-http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 #EXTINF:-1 group-title="数字频道",纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 group-title="数字频道",新视觉HD
@@ -599,22 +590,6 @@ https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #EXTINF:-1 group-title="☘️四川频道",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁公共
-http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁北方
-http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁影视
-http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁青少
-http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁生活
-http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁经济
-http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁都市
-http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁体育
-http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 group-title="☘️辽宁频道",朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 group-title="☘️辽宁频道",辽宁公共
@@ -639,16 +614,6 @@ http://120.76.248.139/live/bfgd/4200000068.m3u8
 http://120.76.248.139/live/bfgd/4200000610.m3u8
 #EXTINF:-1 group-title="☘️广东频道",广东大湾区
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 group-title="☘️广东频道",广东新闻
-http://119.32.12.17:2901/udp/224.1.100.5:11111
-#EXTINF:-1 group-title="☘️广东频道",广东影视
-http://119.32.12.17:2901/udp/224.1.100.11:11111
-#EXTINF:-1 group-title="☘️广东频道",广东少儿
-http://119.32.12.17:2901/udp/224.1.100.9:11111
-#EXTINF:-1 group-title="☘️广东频道",广东民生
-http://119.32.12.17:2901/udp/224.1.100.4:11111
-#EXTINF:-1 group-title="☘️广东频道",广东经济科教
-http://119.32.12.17:2901/udp/224.1.100.6:11111
 #EXTINF:-1 group-title="☘️广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 group-title="☘️广东频道",广州新闻
@@ -727,12 +692,6 @@ http://1.94.31.214/php/hebei.php?id=hbgg
 http://1.94.31.214/php/hebei.php?id=nmpd
 #EXTINF:-1 group-title="☘️河北频道",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="☘️河北频道",石家庄新闻综合
-http://nn.7x9d.cn/石家庄.php?id=4
-#EXTINF:-1 group-title="☘️河北频道",石家庄城市服务
-http://nn.7x9d.cn/石家庄.php?id=5
-#EXTINF:-1 group-title="☘️河北频道",石家庄文化娱乐
-http://nn.7x9d.cn/石家庄.php?id=6
 #EXTINF:-1 group-title="☘️陕西频道",新闻咨询
 http://112.46.105.20:8009/hls/18/index.m3u8
 #EXTINF:-1 group-title="☘️陕西频道",都市青春
@@ -751,20 +710,6 @@ http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 group-title="☘️福建频道",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
-#EXTINF:-1 group-title="☘️海南频道",海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-#EXTINF:-1 group-title="☘️海南频道",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-#EXTINF:-1 group-title="☘️海南频道",海南自贸
-http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 group-title="☘️海南频道",海南新闻
-http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-#EXTINF:-1 group-title="☘️海南频道",海南公共
-http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-#EXTINF:-1 group-title="☘️海南频道",海南文旅
-http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-#EXTINF:-1 group-title="☘️海南频道",海南少儿
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨影视
